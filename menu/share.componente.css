@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+
+    a{
+        text-decoration: none;
+        color: black;
+    }
+
+    body{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+       background: url(fundoInverti.jpeg);
+        background-size: 100%;
+
+
+    }
+
+    
+    ul{
+        list-style: none;
+    }
+
+    nav{
+        background-color: rgba(10, 143, 21, 0.801);
+        width: 350px;
+        height: 100%;
+        position: absolute;
+    }
+
+      
+    ul{        
+        top: 80px;
+        position: absolute;
+        width: 100%;        
+    }
+
+    a{
+        display: block;
+        padding: 20px 5px;
+        color: white;
+    }
+
+    a:hover{
+        background-color: rgb(176,224,230);
+        color: black;
+    }
+
+
+   button{
+        padding: 10px;
+        border-radius: 15px;
+        font-size: 15px;
+        background-color: rgb(176,224,230);
+        color: black;
+    }
+
+    menu{
+        color: rgb(5, 63, 5);
+        font-style:  italic ;
+        font-size: 40px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+       
+        
+   
+    

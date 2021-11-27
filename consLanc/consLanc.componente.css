@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+h1{
+    text-align: center;
+    color: rgb(43, 43, 128);
+    font-size: 60px;
+}
+
+p{
+    text-align: center;
+    color:rgb(43, 43, 128) ;
+    font-size: 40px;
+}
+
+ h2{
+    text-align: left;
+    color:rgb(43, 43, 128) ;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.box{
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50% );
+} 
+
+.inputInicial{
+    background: rgb(92, 92, 190);
+    color: white;
+}
+
+.inputFinal{
+    background: rgb(92, 92, 190);
+    color: white;
+}
+
+.organico{
+    color: #461702;
+}
+.papel{
+    color:blue
+}
+.vidro{
+    color: green;
+}
+.metal{
+    color: yellow;
+}
+.todos{
+    color: thistle;
+}
